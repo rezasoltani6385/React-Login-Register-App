@@ -1,4 +1,4 @@
-# Login and Registration Web Application
+# Login and Registration Web Application (React & Node.js)
 
 This repository contains a web application built with Node.js and React. The application provides a responsive user interface that allows users to sign up, log in, and manage their personal information. The server is designed to interact with a MySQL database for persistent storage of user data.
 
